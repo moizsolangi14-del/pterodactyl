@@ -43,12 +43,12 @@ git clone https://github.com/moizsolangi14-del/pterodactyl
 # then this
 
 ```bash
-mv pterodatyl/* .
+mv pterodactyl/* .
 ```
 # to delete folder
 
 ```bash
-rm -r pterodatyl
+rm -r pterodactyl
 ```
 ------------------------------------------------------------
 🚀 ONE‑CLICK ADDONS INSTALLER COMMAND
