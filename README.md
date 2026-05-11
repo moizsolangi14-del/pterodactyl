@@ -32,7 +32,9 @@ Run this command to automatically install ALL blueprints:
 bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/blueprint/main/blueprint-installer.sh)
 ```
 # USE THIS 
-```git clone https://github.com/moizsolangi14-del/pterodactyl
+
+```bash
+git clone https://github.com/moizsolangi14-del/pterodactyl
 ```
 
 ------------------------------------------------------------
