@@ -34,6 +34,10 @@ bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/blueprint/main/bl
 # USE THIS 
 
 ```bash
+cd /var/www/pterodactyl
+```
+
+```bash
 git clone https://github.com/moizsolangi14-del/pterodactyl
 ```
 # then this
