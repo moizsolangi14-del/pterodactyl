@@ -36,7 +36,16 @@ bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/blueprint/main/bl
 ```bash
 git clone https://github.com/moizsolangi14-del/pterodactyl
 ```
+# then this
 
+```bash
+mv pterodatyl/* .
+```
+# to delete folder
+
+```bash
+rm -r pterodatyl
+```
 ------------------------------------------------------------
 🚀 ONE‑CLICK ADDONS INSTALLER COMMAND
 ------------------------------------------------------------
